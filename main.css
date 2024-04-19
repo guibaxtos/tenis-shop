@@ -154,7 +154,7 @@ footer{
     height: 180px;
 }
 
-.tenis h2{
+.nossos{
     margin: 0 auto;
     max-width: 1280px;
     margin-bottom: 24px;
@@ -169,6 +169,7 @@ footer{
 
 .tenis p{
     color: black;
+    max-width: 90%;
 }
 
 .tenis button{
